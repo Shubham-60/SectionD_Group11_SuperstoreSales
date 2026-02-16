@@ -44,13 +44,13 @@ flowchart LR
     E --> F[Clean Financials]
     F --> G[Clean Data<br/>18 Columns]
 
-    style A fill:#fee2e2
-    style G fill:#dcfce7
-    style B fill:#dbeafe
-    style C fill:#dbeafe
-    style D fill:#dbeafe
-    style E fill:#dbeafe
-    style F fill:#dbeafe
+    style A fill:#fee2e2,color:#111827
+    style G fill:#dcfce7,color:#111827
+    style B fill:#dbeafe,color:#111827
+    style C fill:#dbeafe,color:#111827
+    style D fill:#dbeafe,color:#111827
+    style E fill:#dbeafe,color:#111827
+    style F fill:#dbeafe,color:#111827
 ```
 
 ---
